@@ -1,4 +1,4 @@
-<h1 align="center">Desafio: Conceitos do Node.js</h1>
+<h1 align="center">Desafio: Banco de dados e upload de arquivos no Node.js</h1>
 
 ## Sobre 
 A aplicação armazena transações financeiras de entrada e saída e permite o cadastro e a listagem dessas transações, 
