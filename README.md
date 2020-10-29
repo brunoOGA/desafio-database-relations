@@ -1,8 +1,7 @@
-<h1 align="center">Desafio: Banco de dados e upload de arquivos no Node.js</h1>
+<h1 align="center">Desafio: Relacionamentos com banco de dados no Node.js</h1>
 
 ## Sobre 
-A aplicação armazena transações financeiras de entrada e saída e permite o cadastro e a listagem dessas transações, 
-além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
+A aplicação permite a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
 
 ---
 ## Tecnologias utilizadas
